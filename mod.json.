@@ -1,0 +1,19 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "android": "2.2074"
+  },
+  "id": "my.noclip",
+  "name": "My Noclip",
+  "version": "1.0.0",
+  "developer": "Player",
+  "description": "A simple NoClip mod for Geometry Dash",
+  "settings": {
+    "noclip": {
+      "name": "Enable NoClip",
+      "description": "Prevent death from collisions",
+      "type": "bool",
+      "default": true
+    }
+  }
+}
